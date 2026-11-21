@@ -1,0 +1,22 @@
+[
+  {
+    "name": "death-star",
+    "prompt": "Use case: stylized-concept. Asset: premium Star Wars Omarchy desktop wallpaper, landscape 16:10, largest available native resolution. Cinematic painterly realism, restrained elegant composition, charcoal near-black (#0b0b0c) background, deep shadows with subtle detail, a small luminous focal subject with generous dark negative space for desktop windows. No text, logos, borders or watermark. Produce one complete wallpaper, not a collage. The unmistakable Death Star in orbit, detailed spherical battle station with equatorial trench and concave superlaser dish, subtly illuminated silver-grey curved surface against near-black space, thin cold blue planetary crescent far below, sparse tiny stars. Station occupies about one third of the image, dramatic eclipse lighting, majestic and ominous."
+  },
+  {
+    "name": "crossed-blades",
+    "prompt": "Use case: stylized-concept. Asset: premium Star Wars Omarchy desktop wallpaper, landscape 16:10, largest available native resolution. Cinematic painterly realism, restrained elegant composition, charcoal near-black (#0b0b0c) background, deep shadows with subtle detail, a small luminous focal subject with generous dark negative space for desktop windows. No text, logos, borders or watermark. Produce one complete wallpaper, not a collage. Two detailed lightsaber hilts at the lower center, their ignited blades crossing in a clean X: one blue-white Jedi blade, one crimson-white Sith blade, embodying light side versus dark side. Strong bright white cores make both readable without relying on red/blue color discrimination. Narrow restrained glow, fine sparks only at the crossing, darkness surrounds them, balanced iconic composition."
+  },
+  {
+    "name": "darth-vader",
+    "prompt": "Use case: stylized-concept. Asset: premium Star Wars Omarchy desktop wallpaper, landscape 16:10, largest available native resolution. Cinematic painterly realism, restrained elegant composition, charcoal near-black (#0b0b0c) background, deep shadows with subtle detail, a small luminous focal subject with generous dark negative space for desktop windows. No text, logos, borders or watermark. Produce one complete wallpaper, not a collage. Darth Vader, unmistakable polished black helmet, triangular respirator, ribbed armor and flowing black cape, a solitary imposing figure framed at middle distance slightly right of center. An ignited red lightsaber angled downward with white-hot core. Subtle cool silver rim light describes helmet and cape in deep shadow, faint atmospheric haze, cinematic fine surface detail. Keep figure and lightsaber fully in frame."
+  },
+  {
+    "name": "luke-skywalker",
+    "prompt": "Use case: stylized-concept. Asset: premium Star Wars Omarchy desktop wallpaper, landscape 16:10, largest available native resolution. Cinematic painterly realism, restrained elegant composition, charcoal near-black (#0b0b0c) background, deep shadows with subtle detail, a small luminous focal subject with generous dark negative space for desktop windows. No text, logos, borders or watermark. Produce one complete wallpaper, not a collage. Luke Skywalker as a young Jedi Knight from Return of the Jedi, recognizable youthful face and sandy hair, dressed in his black Jedi tunic, holding one green lightsaber with brilliant white core upright. Solitary calm heroic figure at middle distance slightly right of center, softly illuminated face, subtle blue-white rim lighting, deep charcoal atmospheric setting. Keep figure and blade fully in frame, tasteful cinematic character portrait."
+  },
+  {
+    "name": "millennium-falcon",
+    "prompt": "Use case: stylized-concept. Asset: premium Star Wars Omarchy desktop wallpaper, landscape 16:10, largest available native resolution. Cinematic painterly realism, restrained elegant composition, charcoal near-black (#0b0b0c) background, deep shadows with subtle detail, a small luminous focal subject with generous dark negative space for desktop windows. No text, logos, borders or watermark. Produce one complete wallpaper, not a collage. The unmistakable Millennium Falcon flying in deep space, three-quarter rear view showing its asymmetrical cockpit tube, forward split mandibles and curved luminous blue engine strip, exquisitely detailed weathered grey hull with restrained silver highlights. Ship occupies central third, spare stars and a faint distant planetary crescent, most of the frame near-black. Sense of quiet speed, cinematic spacecraft photography, no motion smear."
+  }
+]

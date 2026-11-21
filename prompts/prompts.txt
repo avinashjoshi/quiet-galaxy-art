@@ -1,0 +1,26 @@
+twin-suns.png
+Use case: stylized-concept
+Asset type: quiet dark desktop wallpaper.
+Format: landscape 16:9, largest native resolution available. Generate at maximum size.
+Style: cinematic matte painting, fine detail, soft atmospheric light, subtle film grain; painterly and realistic, not cartoonish or neon.
+Palette and exposure: very dark overall, vast negative space close to #0b0b0c near-black neutral grey, not pure black. Mostly greys; accents only warm yellow around #ffe81f, pale blue around #80a2f8, and white. Protanopia-friendly: no red/green distinctions, no saturated red or green. Most of the frame is empty darkness, restrained highlights, suitable behind terminal windows.
+Constraints: entirely original design, no recognizable film-franchise designs, characters, ships, helmets, logos, lettering, text, signature or watermark. No bright full-frame sky or nebula.
+Subject: two small suns, one pale yellow and one white, low over a vast desert horizon at dusk; long dune ridgelines catch only a thin rim of light; a tiny lone figure silhouette far away. Composition: all subjects in the lower third, tiny suns and figure, remaining two thirds dark near-black grey sky with only a few faint stars. Keep dunes very dark and light localized.
+
+blade.png
+Use case: stylized-concept
+Asset type: quiet dark desktop wallpaper.
+Format: landscape 16:9, largest native resolution available. Generate at maximum size.
+Style: cinematic matte painting, fine detail, soft atmospheric light, subtle film grain; painterly and realistic, not cartoonish or neon.
+Palette and exposure: very dark overall, vast negative space close to #0b0b0c near-black neutral grey, not pure black. Mostly greys; accents only warm yellow around #ffe81f, pale blue around #80a2f8, and white. Protanopia-friendly: no red/green distinctions, no saturated red or green. Most of the frame is empty darkness, restrained highlights, suitable behind terminal windows.
+Constraints: entirely original design, no recognizable film-franchise designs, characters, ships, helmets, logos, lettering, text, signature or watermark. No bright full-frame sky or nebula.
+Subject: a single glowing energy sword standing upright in darkness, with a plain machined-metal hilt of an entirely original design. Pale blue-white blade with a restrained soft glow lighting a little mist and only a hint of stone floor around it. Composition: centered, sword small in the frame, total sword height about one quarter of frame height; enormous empty near-black grey surroundings. No person, no extra objects, no recognizable franchise hilt. Preserve very dark overall exposure.
+
+battle-station.png
+Use case: stylized-concept
+Asset type: quiet dark desktop wallpaper.
+Format: landscape 16:9, largest native resolution available. Generate at maximum size.
+Style: cinematic matte painting, fine detail, soft atmospheric light, subtle film grain; painterly and realistic, not cartoonish or neon.
+Palette and exposure: very dark overall, vast negative space close to #0b0b0c near-black neutral grey, not pure black. Mostly greys; accents only warm yellow around #ffe81f, pale blue around #80a2f8, and white. Protanopia-friendly: no red/green distinctions, no saturated red or green. Most of the frame is empty darkness, restrained highlights, suitable behind terminal windows.
+Constraints: entirely original design, no recognizable film-franchise designs, characters, ships, helmets, logos, lettering, text, signature or watermark. No bright full-frame sky or nebula.
+Subject: an enormous dark spherical space station of an entirely original design seen as a thin lit crescent, partially eclipsing a distant pale-blue planet. Tiny sparse points of window light on the station. Original asymmetrical panel construction, no recognizable franchise silhouette details or weapon dish. Composition: station and partly hidden planet form a small cluster occupying roughly a quarter of the frame width, surrounded by vast empty near-black grey space and sparse faint stars. Convey enormous scale through intricate subtle surface detail, not large framing. Only thin restrained crescent light, very dark planet and station.
