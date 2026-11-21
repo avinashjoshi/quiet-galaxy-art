@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Generate the Quiet Galaxy theme artwork: hairline drawings on near-black.
 
-    uv run --with numpy --with pillow .art/generate.py [name ...]
-    uv run --with numpy --with pillow .art/generate.py stills
-    uv run --with numpy --with pillow .art/generate.py videos   # needs ffmpeg
+    uv run --with numpy --with pillow generate.py [name ...]
+    uv run --with numpy --with pillow generate.py stills
+    uv run --with numpy --with pillow generate.py videos   # needs ffmpeg
 
 Everything is procedural and original: no film stills, logos or third-party
 images. Each wallpaper is the theme's darkest grey except for the few pixels
@@ -501,7 +501,7 @@ def unlock_preview():
 
 
 def protanopia_preview():
-    """.art/preview-protanopia.png: preview.png through the same simulation
+    """docs/preview-protanopia.png: preview.png through the same simulation
     cvd.py uses, to show what survives without red."""
     from cvd import PROTAN
 
@@ -516,7 +516,7 @@ def protanopia_preview():
 
 
 def contact_sheet():
-    """.art/wallpapers.png: every still side by side, for the README."""
+    """docs/wallpapers.png: every still side by side, for the README."""
     tile_w, tile_h, gap, columns = 640, 360, 16, 5
     names = list(STILLS)
     rows = -(-len(names) // columns)

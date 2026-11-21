@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Check the palette in colors.toml under simulated protanopia.
 
-    uv run --with numpy .art/cvd.py            # report on colors.toml
-    uv run --with numpy .art/cvd.py --search   # look for a better hue set
+    uv run --with numpy cvd.py            # report on colors.toml
+    uv run --with numpy cvd.py --search   # look for a better hue set
 
 Protanopia is simulated with the Machado, Oliveira & Fernandes (2009) matrix
 at full severity, applied in linear RGB. Two things are measured on the
